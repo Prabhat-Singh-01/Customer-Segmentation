@@ -1,5 +1,4 @@
 📊 Customer Segmentation using K-Means Clustering
-
 🚀 Project Overview
 
 This project focuses on Customer Segmentation using the K-Means Clustering algorithm, a popular unsupervised machine learning technique. The goal is to group customers into distinct segments based on their behavior and attributes, helping businesses make data-driven decisions.
@@ -39,6 +38,7 @@ Customer-Segmentation/
 ├── notebook/              # Jupyter Notebook with full analysis
 ├── model/                 # Saved model (.pkl file using joblib)
 ├── app.py                 # Streamlit app file
+├── requirements.txt       # Required libraries
 └── README.md              # Project documentation
 
 🔍 Key Steps in Project
@@ -62,7 +62,6 @@ Built an interactive web app using Streamlit
 Users can input data and get customer segment predictions
 
 📈 Results & Insights
-
 Successfully segmented customers into meaningful groups
 Identified patterns in customer behavior
 Enabled data-driven business decision making
@@ -76,13 +75,18 @@ Enabled data-driven business decision making
 ✔ Beginner-friendly and scalable
 
 ▶️ How to Run the Project
-
 1. Clone the Repository
 git clone https://github.com/your-username/customer-segmentation.git
 cd customer-segmentation
-
-3. Install Dependencies
+2. Install Dependencies
 pip install -r requirements.txt
-4. Run Streamlit App
-streamlit run app.py# Customer-Segmentation
+3. Run Streamlit App
+streamlit run app.py
+
+📬 Contact
+Feel free to connect with me for feedback or collaboration!
+
+Email :- prabhatsingh.connect01@gmail.com
+
+[Linkedin](https://www.linkedin.com/in/prabhat-singh-a6a58132a/)
 
